@@ -1,0 +1,200 @@
+CVPR : IEEE/CVF Conference on Computer Vision and Pattern Recognition
+NeurIPS : Neural Information Processing Systems (NIPS)
+ICCV : IEEE/CVF International Conference on Computer Vision
+ECCV : European Conference on Computer Vision
+AAAI : AAAI Conference on Artificial Intelligence
+ICML : International Conference on Machine Learning (ICML)
+ICRA : IEEE International Conference on Robotics and Automation
+WWW : International World Wide Web Conferences (WWW)
+CHI : Conference on Human Factors in Computing Systems
+SIGKDD : ACM SIGKDD International Conference on Knowledge discovery and data mining
+USENIX Security : USENIX Security Symposium
+CCS : ACM Symposium on Computer and Communications Security
+ICASSP : IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+IJCAI : International Joint Conference on Artificial Intelligence (IJCAI)
+ICSE : International Conference on Software Engineering
+SP : IEEE Symposium on Security and Privacy
+ICLR : International Conference on Learning Representations
+ACMMM : ACM International Conference on Multimedia
+INFOCOM : IEEE International Conference on Computer Communications (INFOCOM)
+ACL : Meeting of the Association for Computational Linguistics (ACL)
+WSDM : ACM International Conference on Web Search and Data Mining
+IROS : IEEE/RSJ International Conference on Intelligent Robots and Systems
+ICC : IEEE International Conference on Communications
+SIGMOD : ACM SIGMOD International Conference on Management of Data
+AISTATS : International Conference on Artificial Intelligence and Statistics
+MICCAI : Medical Image Computing and Computer Assisted Intervention
+CIKM : ACM International Conference on Information and Knowledge Management
+GLOBECOM : IEEE GLOBECOM
+NSDI : Symposium on Networked Systems Design and Implementation
+SIGCOMM : ACM SIGCOMM Conference
+EMNLP : Conference on Empirical Methods in Natural Language Processing (EMNLP)
+NDSS : Network and Distributed System Security Symposium (NDSS)
+SIGIR : ACM SIGIR Conference on Research and development in information retrieval
+WACV : Winter Conference on Applications of Computer Vision
+ICDE : International Conference on Data Engineering Workshops
+ICDCS : International Conference on Distributed Computing Systems, ICDCS
+WCNCW : IEEE Wireless Communications and Networking Conference
+ICIP : IEEE International Conference on Image Processing
+ICDMW : IEEE International Conference on Data Mining
+FG : IEEE International Conference on Automatic Face &amp; Gesture Recognition
+POPL : ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages (POPL)
+ISIT : IEEE International Symposium on Information Theory
+ACT : USENIX Annual Technical Conference
+DATE : Design, Automation and Test in Europe Conference and Exhibition
+HLT-NAACL : Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (HLT-NAACL)
+EUROCRYPT : International Conference on Theory and Applications of Cryptographic Techniques (EUROCRYPT)
+SODA : ACM SIAM Symposium on Discrete Algorithms
+IJCNN : International Joint Conference on Neural Networks
+HPCA : IEEE International Symposium on High Performance Computer Architecture
+DAC : Design Automation Conference (DAC)
+CSCW : ACM Conference on Computer-Supported Cooperative Work &amp; Social Computing
+MICRO : IEEE/ACM International Symposium on Microarchitecture
+CRYPTO : International Cryptology Conference (CRYPTO)
+FSE : ACM SIGSOFT International Symposium on Foundations of Software Engineering
+INTERSPEECH : Conference of the International Speech Communication Association (INTERSPEECH)
+ASPLOS : International Conference on Architectural Support for Programming Languages and Operating Systems
+ISSCC : IEEE International Solid-State Circuits Conference
+ISBI : IEEE International Symposium on Biomedical Imaging
+ICME : IEEE International Conference on Multimedia and Expo
+SPAWC : IEEE Workshop on Signal Processing Advances in Wireless Communications
+ISCA : International Symposium on Computer Architecture (ISCA)
+IPDPS : IEEE International Symposium on Parallel &amp; Distributed Processing
+EuroSys : ACM European Conference on Computer Systems
+STOC : ACM Symposium on Theory of Computing
+ICWSM : International Conference on Web and Social Media
+VTC : IEEE Vehicular Technology Conference
+Mobisys : Annual International Conference on Mobile Systems, Applications, and Services
+CDC : IEEE Conference on Decision and Control
+SOSP : ACM Symposium on Operating Systems Principles
+BMVC : British Machine Vision Conference
+ASE : IEEE/ACM International Conference on Automated Software Engineering
+ACC : American Control Conference
+PERCOM : IEEE International Conference on Pervasive Computing and Communications
+ACM ASIACCS : ACM ASIA Conference on Computer and Communications Security
+3DV : International Conference on 3D Vision
+TACAS : International Conference on Tools and Algorithms for the Construction and Analysis of Systems (TACAS)
+ACCV : Asian Conference on Computer Vision (ACCV)
+HRI : ACM/IEEE International Conference on Human Robot Interaction
+UIST : ACM Symposium on User Interface Software and Technology
+ESORICS : European Conference on Research in Computer Security
+IMC : Internet Measurement Conference
+ASP-DAC : Asia and South Pacific Design Automation Conference
+ISCAS : IEEE International Symposium on Circuits and Systems
+EACL : Conference of the European Chapter of the Association for Computational Linguistics
+EuroS&amp;P : European Symposium on Security and Privacy
+PLDI : ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI)
+GECCO : Conference on Genetic and Evolutionary Computation
+SDM : SIAM International Conference on Data Mining (SDM)
+CAV : International Conference on Computer Aided Verification
+FOCS : IEEE Symposium on Foundations of Computer Science
+RSS : Robotics: Science and Systems
+SANER : International Conference on Software Analysis, Evolution, and Reengineering
+ITSC : IEEE Intelligent Transportation Systems Conference
+IV : IEEE Intelligent Vehicles Symposium
+EC : ACM Conference on Economics and Computation
+LAK : International Conference on Learning Analytics And Knowledge
+ICCPS : ACM/IEEE International Conference on Cyber-Physical Systems
+ISSTA : International Symposium on Software Testing and Analysis
+RecSys : ACM Conference on Recommender Systems
+MobiCom : Annual International Conference on Mobile Computing and Networking
+FPGA : Symposium on Field Programmable Gate Arrays
+AAMAS : Autonomous Agents and Multi-Agent Systems
+IUI : International Conference on Intelligent User Interfaces
+ECMLPKDD : European Conference on Machine learning and knowledge discovery in databases
+SC : International Conference for High Performance Computing, Networking, Storage and Analysis
+IJCB : International Joint Conference on Biometrics
+COLT : Conference on Learning Theory (COLT)
+OOPSLA : ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications
+FC : International Conference on Financial Cryptography and Data Security
+SoCC : ACM Symposium on Cloud Computing
+ISWC : International Semantic Web Conference
+PODS : ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems
+OSDI : Symposium on Operating Systems Design and Implementation (OSDI)
+ICMI : ACM International Conference on Multimodal Interaction
+EUSIPCO : European Signal Processing Conference
+PIMRC : Annual International Symposium on Personal, Indoor and Mobile Radio Communications
+ASRU : IEEE Automatic Speech Recognition and Understanding Workshop
+CoRL : Conference on Robot Learning
+RAID : International Symposium on Research in Attacks, Intrusions, and Defenses
+MMSys : ACM Multimedia Systems Conference
+ESWC : Extended Semantic Web Conference
+COLING : International Conference on Computational Linguistics
+MSR : Mining Software Repositories
+SIGSPATIAL : ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems
+UMAP : International Conference on User Modelling, Adaptation, and Personalization
+SEC : ACM/IEEE Symposium on Edge Computing
+ICDAR : International Conference on Document Analysis and Recognition
+CLOUD : IEEE International Conference on Cloud Computing (CLOUD)
+ACSAC : Computer Security Applications Conference
+ICMR : ACM International Conference on Multimedia Retrieval
+ICSME : IEEE International Conference on Software Maintenance and Evolution
+SENSYS : ACM Conference on Embedded Networked Sensor Systems
+CoNEXT : International Conference on emerging Networking EXperiments and Technologies
+ACNS : International Conference on Applied Cryptography and Network Security
+ASONAM : International Conference on Advances in Social Network Analysis and Mining
+SOSR : Symposium on SDN Research
+ICPR : International Conference on Pattern Recognition
+PKC : IACR International Workshop on Public Key Cryptography
+ICCAD : IEEE/ACM International Conference on Computer-Aided Design
+CEC : IEEE Congress on Evolutionary Computation
+DIS : Conference on Designing Interactive Systems
+MOBIHOC : ACM International Symposium on Mobile Ad Hoc Networking and Computing
+DSN : IEEE/IFIP International Conference on Dependable Systems and Networks
+WiOpt : International Symposium on Modeling and Optimization in Mobile, Ad Hoc, and Wireless Networks
+AIES : AAAI/ACM Conference on AI, Ethics, and Society
+AVSS : IEEE International Conference on Advanced Video and Signal-Based Surveillance
+CCGrid : IEEE International Symposium on Cluster Computing and the Grid
+IJCNLP : International Joint Conference on Natural Language Processing (IJCNLP)
+Allerton : Allerton Conference on Communication, Control, and Computing
+HPDC : ACM International Symposium on High Performance Distributed Computing
+IPSN : International Symposium on Information Processing in Sensor Networks
+CaiSE : International Conference on Advanced Information Systems Engineering
+IC3N : International Conference on Computer Communications and Networks
+SAC : ACM Symposium on Applied Computing
+ACSSC : Asilomar Conference on Signals, Systems and Computers
+ESEC/FSE : ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering
+ICNC : International Conference on Computing, Networking and Communications
+PAKDD : Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)
+FAST : Conference on File and Storage Technologies (FAST)
+LICS : IEEE Symposium on Logic in Computer Science
+ICAPS : International Conference on Automated Planning and Scheduling
+SPAA : ACM Symposium on Parallelism in Algorithms and Architectures
+IWCMC : International Wireless Communications and Mobile Computing Conference
+EMBC : Annual International Conference of the IEEE Engineering in Medicine and Biology Society
+WebSci : ACM on Web Science Conference
+ICPC : International Conference on Program Comprehension
+FUZZ : IEEE International Conference on Fuzzy Systems
+ASIACRYPT : International Conference on The Theory and Application of Cryptology and Information Security (ASIACRYPT)
+Big Data : IEEE International Conference on Big Data
+ICST : IEEE International Conference on Software Testing, Verification and Validation (ICST)
+Radarconf : IEEE Radar Conference
+ICS : 	International Conference on Supercomputing
+HOTNETS : ACM Workshop on Hot Topics in Networks
+HICSS : Hawaii International Conference on System Sciences
+ICPP : International Conference on Parallel Processing (ICPP)
+CISS : Conference on Information Sciences and Systems
+PPOPP : ACM SIGPLAN Symposium on Principles &amp; Practice of Parallel Programming (PPOPP)
+CICC : IEEE Custom Integrated Circuits Conference, CICC
+SemEval : International Workshop on Semantic Evaluation
+UAI : Conference on Uncertainty in Artificial Intelligence (UAI)
+ICNP : IEEE International Conference on Network Protocols
+FUSION : International Conference on Information Fusion
+IC2E : IEEE International Conference on Cloud Engineering
+PAM : International Conference on Passive and Active Network Measurement
+QoMEX : International Workshop on Quality of Multimedia Experience
+IGARSS : IEEE International Geoscience and Remote Sensing Symposium
+CoNLL : Conference on Computational Natural Language Learning (CoNLL)
+EuCNC : European Conference on Networks and Communications
+RE : IEEE International Requirements Engineering Conference
+ICANN : International Conference on Artificial Neural Networks
+CODASPY : ACM Conference on Data and application security and privacy
+ECC : European Control Conference
+GlobalSIP : IEEE Global Conference on Signal and Information Processing
+HCII : International Conference on Human-Computer Interaction
+MASS : IEEE International Conference on Mobile Ad Hoc and Sensor Systems
+CCTA : IEEE Conference on Control Technology and Application
+RO-MAN : IEEE International Symposium on Robot and Human Interactive Communication
+MLMI : International Workshop on Machine Learning in Medical Imaging
+ICCP : IEEE International Conference on Computational Photography
+FAT : Conference on Fairness, Accountability, and Transparency 

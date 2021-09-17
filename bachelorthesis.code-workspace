@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+        "path": "."
+    }
+],
+  "settings": {
+    "svg.preview.background": "custom",
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 3000,
+    "python.pythonPath": "C:/Users/simon/anaconda3/envs/py388/python",
+
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.analysis.autoSearchPaths": true,
+    "python.analysis.extraPaths": ["src"],
+    "python.terminal.activateEnvironment": true,
+    "python.condaPath": "C:\\Users\\simon\\anaconda3\\Scripts\\conda.exe"
+}

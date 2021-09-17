@@ -1,0 +1,2 @@
+﻿nodes,relationships
+"[{""name"":Article,""indexes"":[],""constraints"":[]},{""name"":Author,""indexes"":[],""constraints"":[]},{""name"":Top200,""indexes"":[],""constraints"":[]}]","[{},{},{}]"
